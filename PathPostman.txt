@@ -1,0 +1,5 @@
+
+http://localhost:8080/api/v1/domicilio
+http://localhost:8080/api/v1/libro
+http://localhost:8080/api/v1/localidad
+http://localhost:8080/api/v1/persona
